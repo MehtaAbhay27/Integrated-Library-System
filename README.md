@@ -37,7 +37,7 @@ Login-Page1
 
 Forget-Password
 
-![Forget-Password](https://github.com/MehtaAbhay27/Integrated-Library-System/blob/dce862d76677f84f7b9146dcd8258bc92b579a14/Images/Forget-Password.jpg)
+![Forget-Password](https://github.com/MehtaAbhay27/Integrated-Library-System/blob/0d6e1b1be5a0179599926dfcdf5646a8897584ae/Images/Forget-Password.jpg)
 
 Home_page
 ![Home-Page](https://github.com/MehtaAbhay27/Integrated-Library-System/blob/dce862d76677f84f7b9146dcd8258bc92b579a14/Images/Home-Page.jpg)
