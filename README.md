@@ -10,12 +10,12 @@ then install mysql installer community
 ### Step 2: Import the sql file in localhost
 Download **Sql File**:-
 
-Download: [here](https://github.com/MehtaAbhay27/LOGIN-CURD/tree/master/Database-file)
+Download: [here](https://github.com/MehtaAbhay27/Integrated-Library-System/tree/master/Database)
 
-### Step 3: Run Login-Curd exe file 
-Download **LOGIN-CURD exe File**:-
+### Step 3: Run Integrated Library System exe file 
+Download **Integrated Library System exe File**:-
 
-Download: [here](https://github.com/MehtaAbhay27/LOGIN-CURD/releases/tag/v0.1)
+Download: [here](https://github.com/MehtaAbhay27/Integrated-Library-System/releases/tag/v0.1)
 
 
 ### Admin Login Details
@@ -23,40 +23,40 @@ Download: [here](https://github.com/MehtaAbhay27/LOGIN-CURD/releases/tag/v0.1)
 
 > Admin-Password :- Admin@12
 
-### Admin Login Details
-> User-Username :- Abhay27
+### Sub-Admin Login Details
+> User-Username :- Ashu_23
 
-> User-Password :- Abhay@123
+> User-Password :- Ashu@23
 
 ## Application User Interface
 Index Page
-![Index Page](https://github.com/MehtaAbhay27/LOGIN-CURD/blob/cbe416b37accf46348b1e4bd3e2971bdcdb94196/images/Index_page.jpg)
+![Index Page](https://github.com/MehtaAbhay27/Integrated-Library-System/blob/dce862d76677f84f7b9146dcd8258bc92b579a14/Images/Index-Page.jpg)
 
-Index login_choosen
-![Index login_choosen](https://github.com/MehtaAbhay27/LOGIN-CURD/blob/cabbb948e40894bf78b24c7e9d5987176978810d/images/Index%20login_choosen.jpg)
+Login-Page1
+![Login-Page1](https://github.com/MehtaAbhay27/Integrated-Library-System/blob/dce862d76677f84f7b9146dcd8258bc92b579a14/Images/Login-Page1.jpg)
 
-User_login
+Forget-Password
 
-![User_login](https://github.com/MehtaAbhay27/LOGIN-CURD/blob/23fcf8bf7ac9f043266cec97030cde2db7657707/images/User_login.jpg)
+![Forget-Password](https://github.com/MehtaAbhay27/Integrated-Library-System/blob/dce862d76677f84f7b9146dcd8258bc92b579a14/Images/Forget-Password.jpg)
 
-User_Signup
-![User_Signup](https://github.com/MehtaAbhay27/LOGIN-CURD/blob/11daa8c5f0fb224d834dab90dede4b073a8c9fdf/images/User_Signup.jpg)
+Home_page
+![Home-Page](https://github.com/MehtaAbhay27/Integrated-Library-System/blob/dce862d76677f84f7b9146dcd8258bc92b579a14/Images/Home-Page.jpg)
 
-User Forget Password
+Use Forget Password
 ![User forget_password](https://github.com/MehtaAbhay27/LOGIN-CURD/blob/b1a7c9a20bca6b781e2b93059062c4ba2c9efeae/images/User%20forget_password.jpg)
 
-User Dashboard
-![User_Dashboard](https://github.com/MehtaAbhay27/LOGIN-CURD/blob/a72ab1f6eb666944963b25a256cffd857c09b70e/images/User_Dashboard.jpg)
+Manage-Books
+![CRUD-bOOKS](https://github.com/MehtaAbhay27/Integrated-Library-System/blob/dce862d76677f84f7b9146dcd8258bc92b579a14/Images/CRUD-BOOKS.jpg)
 
-Admin Login
+Manage-Students
 
-![Admin_Login1](https://github.com/MehtaAbhay27/LOGIN-CURD/blob/860bd822588fadcb82fc6b5bef8b4396775b77af/images/Admin_Login%201.jpg)
+![CRUD-Students](https://github.com/MehtaAbhay27/Integrated-Library-System/blob/dce862d76677f84f7b9146dcd8258bc92b579a14/Images/CRUD-STUDENTS.jpg)
 
-Admin Dashboard
-![Admin Dashboard 0](https://github.com/MehtaAbhay27/LOGIN-CURD/blob/860bd822588fadcb82fc6b5bef8b4396775b77af/images/Admin%20%20Dashboard%200.jpg)
+Issue-Books
+![Issue-Books](https://github.com/MehtaAbhay27/Integrated-Library-System/blob/dce862d76677f84f7b9146dcd8258bc92b579a14/Images/Issue-Books.jpg)
 
-Admin/ Manage-Staffs
-![Admin Dashboard 1](https://github.com/MehtaAbhay27/LOGIN-CURD/blob/a9bedfe36c03280e41c970d39e6f25807b7b603c/images/Admin%20Dashboard%201.jpg)
+Return-Books
+![Return-Books](https://github.com/MehtaAbhay27/Integrated-Library-System/blob/dce862d76677f84f7b9146dcd8258bc92b579a14/Images/Return-Book.jpg)
 
 
 
