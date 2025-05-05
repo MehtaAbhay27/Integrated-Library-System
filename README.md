@@ -42,8 +42,6 @@ Forget-Password
 Home_page
 ![Home-Page](https://github.com/MehtaAbhay27/Integrated-Library-System/blob/dce862d76677f84f7b9146dcd8258bc92b579a14/Images/Home-Page.jpg)
 
-Use Forget Password
-![User forget_password](https://github.com/MehtaAbhay27/LOGIN-CURD/blob/b1a7c9a20bca6b781e2b93059062c4ba2c9efeae/images/User%20forget_password.jpg)
 
 Manage-Books
 ![CRUD-bOOKS](https://github.com/MehtaAbhay27/Integrated-Library-System/blob/dce862d76677f84f7b9146dcd8258bc92b579a14/Images/CRUD-BOOKS.jpg)
@@ -58,6 +56,22 @@ Issue-Books
 Return-Books
 ![Return-Books](https://github.com/MehtaAbhay27/Integrated-Library-System/blob/dce862d76677f84f7b9146dcd8258bc92b579a14/Images/Return-Book.jpg)
 
+View Records
+![Search-Records](https://github.com/MehtaAbhay27/Integrated-Library-System/blob/aa1d2fdc871693e474f084b936593fb8c54b0b37/Images/Search-Records.jpg)
 
+View Pending Books
+![View-Pendind-Books](https://github.com/MehtaAbhay27/Integrated-Library-System/blob/aa1d2fdc871693e474f084b936593fb8c54b0b37/Images/View-Pendind-Books.jpg)
+
+Admin Profile
+![Admin-Profile](https://github.com/MehtaAbhay27/Integrated-Library-System/blob/aa1d2fdc871693e474f084b936593fb8c54b0b37/Images/Admin-Profile.jpg)
+
+Add-SubAdmin
+![Add-SubAdmin](https://github.com/MehtaAbhay27/Integrated-Library-System/blob/aa1d2fdc871693e474f084b936593fb8c54b0b37/Images/Add-SubAdmin.jpg)
+
+Manage SubAdmin
+![Manage-SubAdmin](https://github.com/MehtaAbhay27/Integrated-Library-System/blob/aa1d2fdc871693e474f084b936593fb8c54b0b37/Images/Manage-SubAdmin.jpg)
+
+Reset Password
+![Reset-Password](https://github.com/MehtaAbhay27/Integrated-Library-System/blob/aa1d2fdc871693e474f084b936593fb8c54b0b37/Images/Reset-Password.jpg)
 
 
